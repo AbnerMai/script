@@ -1,5 +1,5 @@
 
-hosts_path='/C/Windows/System32/drivers/etc/hosts1';
+hosts_path='/C/Windows/System32/drivers/etc/hosts';
 
 # 获取传入的参数地址，可替换地址常量
 # 文件存在
